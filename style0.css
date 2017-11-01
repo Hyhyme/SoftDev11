@@ -1,0 +1,21 @@
+body {
+    background: lightgreen;
+    font-size: 110%;
+}
+
+h1 {
+    font-size: 250%;
+    text-align: center;
+}
+
+h2 {
+    color: orangered;
+    text-align: center;
+}
+
+p {
+    color: orangered;
+    text-align: center;
+    font-size: 80%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
