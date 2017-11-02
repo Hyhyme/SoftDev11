@@ -1,0 +1,25 @@
+body {
+    background: indigo;
+    font-family: Georgia, serif
+}
+
+.extreme {
+    color: coral;
+    font-size: 90%;
+}
+
+.navzone {
+    background: lightgreen;
+    color: darkslateblue;
+}
+
+.content {
+    color: gold;
+    font-size: 110%
+}
+
+#tehlulz {
+    color: olive;
+    font-size: 200%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
