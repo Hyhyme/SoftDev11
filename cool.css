@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    margin-left: 700px;
+    margin-right: 700px;
+    text-decoration: underline;
+    background-color: aliceblue;
+}
+
+body {
+    background-image: url("http://i0.kym-cdn.com/entries/icons/original/000/024/048/skeleton.jpg");
+    padding: 30px;
+}
+
+
+p {
+    padding: 30px;
+    text-align: center;
+    font-style: italic;
+    color: blanchedalmond;
+    font-size: 120%;
+}
+
+.head1 {
+    text-decoration: underline;
+}
+
+a:link {
+    color: coral;
+}
+
+a:hover {
+    font-weight: bold;
+    color: lightgreen;
+}
+
+a:visited {
+    color: mediumorchid;
+    
